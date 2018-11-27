@@ -1,0 +1,13 @@
+				
+			
+==========================================================================
+				Customization of Animate.css:
+
+		Reduce X-axis & Y-axis for some animations inside Animate.css
+==========================================================================
+
+1) fadeInDown (Y-axis: -50%)
+2) fadeInUp   (Y-axis: 20%)
+3) fadeInLeft (X-axis: -20%)
+4) fadeInRight (X-axis: 20%)
+

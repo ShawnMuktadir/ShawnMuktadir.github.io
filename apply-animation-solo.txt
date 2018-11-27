@@ -1,0 +1,117 @@
+
+				Animaitons (Solo)
+
+==================================================================================
+				About 02:
+==================================================================================
+ <!-- About 01 -->
+ <div class="col-md-4 col-sm-4 wow fadeInLeft">
+
+<!-- About 02 -->
+<div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-duration="2s">
+
+<!-- About 03 -->
+<div class="col-md-4 col-sm-4 wow fadeInRight">
+
+
+==================================================================================
+				Team:
+==================================================================================
+<!-- Team Left Side -->
+<div class="col-md-6 col-sm-6 wow slideInLeft" data-wow-duration="1s">
+<!-- Team Right Side -->
+<div class="col-md-6 col-sm-6 wow slideInRight" data-wow-duration="1s">
+<!-- Progress Bars -->
+<div class="row wow fadeInUp">
+
+
+==================================================================================
+				Statement:
+==================================================================================
+<div class="col-md-12 wow fadeIn">
+
+
+==================================================================================
+				Services:
+==================================================================================
+Service 01: 
+
+Horizontal heading:
+<div class="col-md-12 text-center wow slideInDown">
+
+Laptop Image: 
+<div class="col-md-7 col-sm-7 wow slideInLeft">
+
+Services Items:
+<div class="col-md-5 col-sm-5 wow slideInRight">
+
+
+==================================================================================
+				Portfolio:
+==================================================================================
+Vertical heading:
+<div class="col-md-12 wow slideInLeft">
+
+<!-- Portfolio Items -->
+<section id="portfolio-wrapper" class="wow fadeInUp"> 
+
+==================================================================================
+				Testimonials:
+==================================================================================
+Vertical heading:
+<div class="col-md-4 col-sm-4 wow slideInLeft">
+
+Testimonials Slider:
+<div class="col-md-8 col-sm-8 wow fadeIn" data-wow-duration="2s">
+
+==================================================================================
+				Pricing:
+==================================================================================
+
+Horizontal heading:
+<div class="col-md-12 text-center wow slideInDown">
+
+Pricing table 01:
+ <div class="col-md-4 col-sm-4 wow fadeInLeft">
+
+Pricing table 02:
+ <div class="col-md-4 col-sm-4 wow fadeInUp" data-wow-duration="3s">
+
+Pricing table 03:
+  <div class="col-md-4 col-sm-4 wow fadeInRight">
+
+
+==================================================================================
+				Stats:
+==================================================================================
+Vertical heading:
+ <div class="col-xs-12 wow slideInLeft">
+
+Stats row:
+<div class="row wow fadeInUp" data-wow-duration="2s">
+
+
+==================================================================================
+				Clients:
+==================================================================================
+
+
+Clients row:
+ <div class="row wow bounceInLeft" data-wow-duration="1s" data-wow-delay=".5s">
+
+
+
+==================================================================================
+				Blog:
+==================================================================================
+Blog left:
+<div class="col-md-5 col-sm-4 wow slideInLeft">
+
+Blog right: 
+ <div class="row wow fadeInUp" data-wow-duration="3s">
+
+
+
+
+
+

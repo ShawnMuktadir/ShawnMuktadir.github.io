@@ -1,0 +1,26 @@
+
+			Final Touches (Solo)
+
+------------------------------- ABOUT ---------------------------------------------
+- Increase animation duration(2s) for about image
+- Add smooth transition for about item h3 & p
+
+------------------------------- TEAM ----------------------------------------------
+- Increase animation duration for progress bars. New value is 2000
+
+------------------------------- Portfolio -----------------------------------------
+- Add animtion duration(1s) & delay(.5s) for portfolio wrapper 
+- Change cursor from zoom to pointer
+
+------------------------------- Blog ----------------------------------------------
+- Increase post text to 3 lines
+- Reduce post border radius. New value is 4px
+
+------------------------------- Contact -------------------------------------------
+- Change mail icon with dark icon using fa-envelope
+- Wrape phone and email inside <span>
+- Put dot in the end of address
+
+------------------------------- Footer -------------------------------------------
+- Remove margin for copyright text to make it vertical center.
+
